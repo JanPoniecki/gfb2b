@@ -27,7 +27,7 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 ### 5️⃣ One-Step Add to Cart
 - No need for multiple clicks—just hover over a product and type the desired quantity on the keyboard to add it to the cart instantly.
 
-📌 *[Demo link: Fast Add-to-Cart]*
+📌 *[Demo link: Fast Add-to-Cart](https://www.loom.com/share/9526f8e03a424dabb713bf7042a1494f?sid=72ca97eb-fe3c-4547-b31a-b43e85bdbd55)*
 
 ### 6️⃣ Order from CSV, TXT, or Excel
 - Customers can upload a **CSV, TXT, or Excel file** to generate an order automatically.
