@@ -22,7 +22,7 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 ### 4️⃣ Simplified Product Descriptions
 - Only key information is displayed, reducing clutter and speeding up the decision-making process.
 
-📌 *[Demo link: Product Overview]*
+📌 *[Demo link: Product Overview](https://www.loom.com/share/6222a98c7a9844a5bf6ad14b1daeee9c?sid=ca6f44bf-2b03-4c59-8f30-ecfac0f6e107)*
 
 ### 5️⃣ One-Step Add to Cart
 - No need for multiple clicks—just hover over a product and type the desired quantity on the keyboard to add it to the cart instantly.
