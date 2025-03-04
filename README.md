@@ -41,9 +41,9 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 
 ## Technology Stack
 - **Backend:** Django (no additional e-commerce extensions)
-- **Database:** [Specify your DB, e.g., PostgreSQL, MySQL, SQLite]
-- **Frontend:** [Mention any relevant frontend technologies if applicable]
-- **Other Tools:** [List any integrations, e.g., Redis, Celery, etc.]
+- **Database:** PostgreSQL
+- **Frontend:** JavaScript, Bootstrap, JQuery
+- **Other Tools:** Django REST Framework
 
 ## Demo Videos
 To see GFB2B in action, check out our demo videos:
