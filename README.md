@@ -12,7 +12,7 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 - Hide **out-of-stock** products to focus only on available items.
 - Exclude products with an expiration date shorter than **X months** (customer-defined value).
 
-📌 *[Demo link: Expiration Date Filtering]*
+📌 *[Demo link: Expiration Date Filtering](https://vimeo.com/1062405704/2e72a67d3d?ts=0&share=copy)*
 
 ### 3️⃣ Grouping by Series & Variants
 - Products are grouped by **series and variants** for better organization and faster browsing.
