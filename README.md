@@ -37,7 +37,7 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 ### 7️⃣ Innovative Keyboard-Based Search
 - The platform enables **mouse-free ordering** with a powerful search tool optimized for keyboard use.
 
-📌 *[Demo link: Keyboard-Only Order Placement]*
+📌 *[Demo link: Keyboard-Only Order Placement](https://www.loom.com/share/90be0d1dc2ac4aaf818f8c2e40bc1a16?sid=e2638c95-d5b2-4e7c-9329-6d09ffe327e2)*
 
 ## Technology Stack
 - **Backend:** Django (no additional e-commerce extensions)
