@@ -32,7 +32,7 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 ### 6️⃣ Order from CSV, TXT, or Excel
 - Customers can upload a **CSV, TXT, or Excel file** to generate an order automatically.
 
-📌 *[Demo link: Order from File Upload]*
+📌 *[Demo link: Order from File Upload](https://www.loom.com/share/28cbda5c58d44d06a2280133d8d3b6ef?sid=a7107d71-d869-450e-b9e8-c3acc1d679ac)*
 
 ### 7️⃣ Innovative Keyboard-Based Search
 - The platform enables **mouse-free ordering** with a powerful search tool optimized for keyboard use.
