@@ -48,7 +48,7 @@ GFB2B is optimized for **fast and efficient purchasing**, ensuring that wholesal
 ## Demo Videos
 To see GFB2B in action, check out our demo videos:
 
-🔗 *[Full Demo Playlist]*
+🔗 *[Full Demo Playlist](https://loom.com/share/folder/4b597a2668e04cd3a48ca440d4f45e9e)*
 
 ---
 
